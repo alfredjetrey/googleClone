@@ -38,6 +38,13 @@ time, mark, audio, video {
 	margin-top: 10px;
 	padding: 10px;
 }
+
+.nav-element ul li a:hover { 
+	 background: #E6E6E6;
+	 color: #3A9CF2;
+     text-decoration: underline;
+     }
+
 .header-nav a{
 	color : #363634;
 }
@@ -57,6 +64,10 @@ a{
 	background-size: 20px;
 	padding:  6px 12px 6px 12px;
 }
+#sign-in-button a:hover{
+   background: #1BE009;
+   }
+
 .logo{
 	text-align: center;
 	margin-right: auto;
